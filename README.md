@@ -17,3 +17,4 @@ on "runTick":
 
 # Tutoria
 ![Image text](https://github.com/TNTChinaAAA/Minecraft-TabGui-API/blob/master/IMAGE/runTick.png)
+![Image text](https://github.com/TNTChinaAAA/Minecraft-TabGui-API/blob/master/IMAGE/INVOKE.png)
