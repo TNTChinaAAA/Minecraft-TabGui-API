@@ -14,3 +14,6 @@ on "runTick":
    ...........
    ;
 }
+
+# Tutoria
+![Image text](https://raw.github.com/TNTChinaAAA/repositpry/master/Minecraft-TabGui-API/IMAGE/runTick.png)
